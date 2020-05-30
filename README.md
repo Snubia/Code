@@ -2,7 +2,7 @@
 
 **--Summary--**
 
-This is the website of a marketting firm, I have fixed the the proper tags
+This is the website of a marketting firm, I have fixed the the proper tags. The original images were not working anymore so I had to change them.
 
 
 
@@ -13,7 +13,7 @@ This is the website of a marketting firm, I have fixed the the proper tags
 -Github
 
 **--Demo--**
-![alt text](demo.jpeg)
+![alt text](dem.jpeg)
 
 **--Links--**
 
